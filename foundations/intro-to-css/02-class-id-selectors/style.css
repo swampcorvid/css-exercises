@@ -1,1 +1,6 @@
-/* Add CSS Styling */
+.oddly {
+    background-color: #fc0341;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.cooler {font-size: 24px;
+}
