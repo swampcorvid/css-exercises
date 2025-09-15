@@ -1,6 +1,18 @@
 .oddly {
-    background-color: #fc0341;
+    background-color: #d1616e;
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
+
 .cooler {font-size: 24px;
+}
+
+#sonic {
+    color: #031cfc;
+    font-size: 32px;
+}
+
+#forsworn {
+    background-color: #03fc90;
+    font-size: 24px;
+    font-weight: bold;
 }
